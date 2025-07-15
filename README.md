@@ -1,3 +1,9 @@
 # Kubernetes Lab
 
-Learn Kubernetes through hands-on examples and exercises. From basic concepts to advanced configurations, this lab provides practical manifests and step-by-step tutorials to master K8s fundamentals.
+Learn Kubernetes by doing. Simple examples, step-by-step guides, and real config files to help you understand K8s from beginner to advanced level.
+
+<br>
+
+<div align="center">
+    <img src="assets/k8.svg" alt="Kubernetes lab" width="200">
+</div>
