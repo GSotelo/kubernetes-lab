@@ -7,3 +7,6 @@ Learn Kubernetes by doing. Simple examples, step-by-step guides, and real config
 <div align="center">
     <img src="assets/k8.svg" alt="Kubernetes lab" width="200">
 </div>
+
+## Table of Contents
+  - [Kubernetes Overview](sections/overview.md)
