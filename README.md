@@ -10,5 +10,5 @@ Learn Kubernetes by doing. Simple examples, step-by-step guides, and real config
 
 ## Table of Contents
   - [Kubernetes Overview](sections/overview.md)
-  - [Concepts](sections/concepts/concepts.md)
+  - [Introduction to Kubernetes Concepts](sections/concepts/introduction-to-kubernetes-concepts.md)
 

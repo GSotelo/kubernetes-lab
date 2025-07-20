@@ -1,0 +1,3 @@
+# Introduction to Kubernetes Concepts
+
+The Concepts section provides foundational knowledge about Kubernetes architecture and core abstractions. It explains the individual components that make up the Kubernetes system and introduces key concepts like pods, services, and deployments that Kubernetes uses to model and manage your cluster resources. This section serves as a comprehensive guide to understanding Kubernetes' underlying principles and how its various parts work together to orchestrate containerized applications.
