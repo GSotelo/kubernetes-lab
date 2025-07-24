@@ -3,7 +3,7 @@
 Containers and container APIs are popular for many reasons, including key factors such as:
 
 - [Faster development cycles](faster-development-cycles.md)
-- Enhanced scalability
+- [Enhanced scalability](enhanced-scalability.md)
 - Simplifying infrastructure management
 - Improved resource efficiency
 - Integration with the cloud-native ecosystem
