@@ -1,4 +1,4 @@
-# Kubernetes Lab
+# Kubernetes lab
 
 Learn Kubernetes by doing. Simple examples, step-by-step guides, and real config files to help you understand K8s from beginner to advanced level.
 
